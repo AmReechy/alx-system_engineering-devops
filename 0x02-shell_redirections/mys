@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 7-file
-chmod u+x 7-file 
+vi 5-firstlines 
+chmod u+x 5-firstlines 
 git add .
-git commit -m "7-file"
+git commit -m "5-firstlines"
 git push

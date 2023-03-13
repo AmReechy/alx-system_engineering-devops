@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 6-third_line 
-chmod u+x 6-third_line 
+vi 7-file
+chmod u+x 7-file 
 git add .
-git commit -m "6-third_line"
+git commit -m "7-file"
 git push

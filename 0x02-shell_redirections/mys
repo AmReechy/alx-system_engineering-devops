@@ -1,0 +1,6 @@
+#!/bin/bash
+vi 1-confused_smiley
+chmod u+x 1-confused_smiley
+git add .
+git commit -m "New script added"
+git push

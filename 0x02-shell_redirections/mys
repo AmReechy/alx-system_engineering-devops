@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 5-firstlines 
-chmod u+x 5-firstlines
+vi 6-third_line 
+chmod u+x 6-third_line 
 git add .
-git commit -m "5-firstlines script added"
+git commit -m "6-third_line"
 git push

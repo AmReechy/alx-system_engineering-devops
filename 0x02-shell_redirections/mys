@@ -1,6 +1,6 @@
 #!/bin/bash
 vi 2-hellofile 
-chmod 2-hellofile
+chmod u+x 2-hellofile
 git add .
-git commit -m "New script added"
+git commit -m "2-hellofile script added"
 git push

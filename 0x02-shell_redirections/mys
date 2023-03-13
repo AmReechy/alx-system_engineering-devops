@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 2-hellofile 
-chmod u+x 2-hellofile
+vi 3-twofiles
+chmod u+x 3-twofiles
 git add .
-git commit -m "2-hellofile script added"
+git commit -m "3-twofiles script added"
 git push

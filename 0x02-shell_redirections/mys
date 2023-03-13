@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 5-firstlines 
-chmod u+x 5-firstlines 
+vi 8-cwd_state
+chmod u+x 8-cwd_state
 git add .
-git commit -m "5-firstlines"
+git commit -m "8-cwd_state"
 git push

@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 1-confused_smiley
-chmod u+x 1-confused_smiley
+vi 2-hellofile 
+chmod 2-hellofile
 git add .
 git commit -m "New script added"
 git push

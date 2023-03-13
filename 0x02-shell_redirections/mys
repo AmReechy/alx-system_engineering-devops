@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 4-lastlines 
-chmod u+x 4-lastlines
+vi 5-firstlines 
+chmod u+x 5-firstlines
 git add .
-git commit -m "4-lastlines script added"
+git commit -m "5-firstlines script added"
 git push

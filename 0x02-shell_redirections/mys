@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 17-hidethisword 
-chmod u+x 17-hidethisword 
+vi 18-letteronly 
+chmod u+x 18-letteronly 
 git add .
-git commit -m "Task 17"
+git commit -m "Task 18"
 git push
